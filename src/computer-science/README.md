@@ -1,4 +1,4 @@
-![Cover](./../../img/computer-science/CS-COVER.png)
+![Cover](./../../img/computer-science/CS-ROADMAP.png)
 
 ***
 
