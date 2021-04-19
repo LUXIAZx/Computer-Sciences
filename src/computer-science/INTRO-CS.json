@@ -10,8 +10,8 @@
                     "h": "74",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "646",
-                    "y": "20",
+                    "x": "1088",
+                    "y": "43",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -39,8 +39,8 @@
                     "zOrder": "1",
                     "measuredW": "67",
                     "measuredH": "25",
-                    "x": "874",
-                    "y": "147",
+                    "x": "1316",
+                    "y": "170",
                     "properties": {
                         "bold": "true",
                         "size": "17",
@@ -54,8 +54,8 @@
                     "w": "240",
                     "measuredW": "239",
                     "measuredH": "32",
-                    "x": "870",
-                    "y": "175",
+                    "x": "1312",
+                    "y": "198",
                     "properties": {
                         "align": "center",
                         "color": "16776960",
@@ -70,8 +70,8 @@
                     "w": "240",
                     "measuredW": "109",
                     "measuredH": "32",
-                    "x": "868",
-                    "y": "237",
+                    "x": "1310",
+                    "y": "260",
                     "properties": {
                         "align": "center",
                         "color": "15658734",
@@ -86,8 +86,8 @@
                     "w": "240",
                     "measuredW": "211",
                     "measuredH": "32",
-                    "x": "868",
-                    "y": "207",
+                    "x": "1310",
+                    "y": "230",
                     "properties": {
                         "align": "center",
                         "color": "16770457",
@@ -101,8 +101,8 @@
                     "zOrder": "5",
                     "measuredW": "267",
                     "measuredH": "40",
-                    "x": "522",
-                    "y": "113",
+                    "x": "964",
+                    "y": "136",
                     "properties": {
                         "bold": "true",
                         "size": "32",
@@ -117,8 +117,8 @@
                     "h": "58",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "646",
-                    "y": "169",
+                    "x": "1088",
+                    "y": "192",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -146,8 +146,8 @@
                     "h": "98",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "674",
-                    "y": "274",
+                    "x": "1116",
+                    "y": "297",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -173,8 +173,8 @@
                     "zOrder": "8",
                     "measuredW": "48",
                     "measuredH": "48",
-                    "x": "647",
-                    "y": "348",
+                    "x": "1089",
+                    "y": "371",
                     "properties": {
                         "color": "2848996",
                         "icon": {
@@ -189,8 +189,8 @@
                     "zOrder": "9",
                     "measuredW": "139",
                     "measuredH": "26",
-                    "x": "601",
-                    "y": "234",
+                    "x": "1043",
+                    "y": "257",
                     "properties": {
                         "bold": "true",
                         "size": "18",
@@ -203,8 +203,8 @@
                     "zOrder": "10",
                     "measuredW": "207",
                     "measuredH": "32",
-                    "x": "315",
-                    "y": "334",
+                    "x": "757",
+                    "y": "357",
                     "properties": {
                         "text": "Computer Fundamental",
                         "size": "18",
@@ -219,8 +219,8 @@
                     "h": "14",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "538",
-                    "y": "348",
+                    "x": "980",
+                    "y": "371",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -248,8 +248,8 @@
                     "h": "34",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "299",
-                    "y": "296",
+                    "x": "741",
+                    "y": "319",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -277,8 +277,8 @@
                     "h": "19",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "207",
-                    "y": "345",
+                    "x": "649",
+                    "y": "368",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -302,27 +302,27 @@
                     "ID": "33",
                     "typeID": "Arrow",
                     "zOrder": "14",
-                    "w": "101",
-                    "h": "70",
+                    "w": "103",
+                    "h": "36",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "352",
-                    "y": "367",
+                    "x": "709",
+                    "y": "403",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "bottom",
                         "p0": {
-                            "x": 0,
-                            "y": 70
+                            "x": 0.09090909090900823,
+                            "y": 36.39393939393938
                         },
                         "p1": {
-                            "x": 0.7434166103983793,
-                            "y": -0.18872383524645509
+                            "x": 0.40923076923076984,
+                            "y": 0.07615384615384607
                         },
                         "p2": {
-                            "x": 97,
-                            "y": 0
+                            "x": 103.12121212121212,
+                            "y": 0.030303030303002743
                         },
                         "rightArrow": "false"
                     }
@@ -331,12 +331,12 @@
                     "ID": "34",
                     "typeID": "TextInput",
                     "zOrder": "15",
-                    "measuredW": "168",
+                    "measuredW": "191",
                     "measuredH": "32",
-                    "x": "173",
-                    "y": "420",
+                    "x": "586",
+                    "y": "449",
                     "properties": {
-                        "text": "Types of Computer",
+                        "text": "Classes of computers",
                         "size": "18",
                         "color": "16776960"
                     }
@@ -347,8 +347,8 @@
                     "zOrder": "16",
                     "measuredW": "174",
                     "measuredH": "32",
-                    "x": "154",
-                    "y": "278",
+                    "x": "596",
+                    "y": "301",
                     "properties": {
                         "text": "What is Computer ?",
                         "size": "18",
@@ -361,8 +361,8 @@
                     "zOrder": "17",
                     "measuredW": "176",
                     "measuredH": "32",
-                    "x": "64",
-                    "y": "352",
+                    "x": "457",
+                    "y": "375",
                     "properties": {
                         "text": "History of Computer",
                         "size": "18",
@@ -377,8 +377,8 @@
                     "h": "97",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "651",
-                    "y": "393",
+                    "x": "1093",
+                    "y": "416",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -404,8 +404,8 @@
                     "zOrder": "19",
                     "measuredW": "48",
                     "measuredH": "48",
-                    "x": "632",
-                    "y": "467",
+                    "x": "1074",
+                    "y": "490",
                     "properties": {
                         "color": "2848996",
                         "icon": {
@@ -420,8 +420,8 @@
                     "zOrder": "20",
                     "measuredW": "144",
                     "measuredH": "32",
-                    "x": "796",
-                    "y": "519",
+                    "x": "1238",
+                    "y": "542",
                     "properties": {
                         "text": "Number System",
                         "size": "18",
@@ -434,8 +434,8 @@
                     "zOrder": "21",
                     "measuredW": "210",
                     "measuredH": "32",
-                    "x": "262",
-                    "y": "550",
+                    "x": "704",
+                    "y": "573",
                     "properties": {
                         "text": "Characters in Computer",
                         "color": "16776960",
@@ -450,8 +450,8 @@
                     "h": "67",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "479",
-                    "y": "495",
+                    "x": "921",
+                    "y": "518",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -479,8 +479,8 @@
                     "h": "42",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "663",
-                    "y": "490",
+                    "x": "1105",
+                    "y": "513",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -508,8 +508,8 @@
                     "h": "16",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "910",
-                    "y": "490",
+                    "x": "1352",
+                    "y": "513",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -535,8 +535,8 @@
                     "zOrder": "25",
                     "measuredW": "66",
                     "measuredH": "32",
-                    "x": "1020",
-                    "y": "484",
+                    "x": "1462",
+                    "y": "507",
                     "properties": {
                         "text": "Binary",
                         "size": "18",
@@ -549,8 +549,8 @@
                     "zOrder": "26",
                     "measuredW": "81",
                     "measuredH": "32",
-                    "x": "1060",
-                    "y": "543",
+                    "x": "1610",
+                    "y": "578",
                     "properties": {
                         "text": "Decimal",
                         "size": "18",
@@ -563,8 +563,8 @@
                     "zOrder": "27",
                     "measuredW": "120",
                     "measuredH": "32",
-                    "x": "912",
-                    "y": "639",
+                    "x": "1364",
+                    "y": "648",
                     "properties": {
                         "text": "Hexadecimal",
                         "size": "18",
@@ -577,8 +577,8 @@
                     "zOrder": "28",
                     "measuredW": "57",
                     "measuredH": "32",
-                    "x": "1024",
-                    "y": "591",
+                    "x": "1499",
+                    "y": "615",
                     "properties": {
                         "text": "Octal",
                         "size": "18",
@@ -589,27 +589,27 @@
                     "ID": "67",
                     "typeID": "Arrow",
                     "zOrder": "29",
-                    "w": "104",
-                    "h": "25",
+                    "w": "202",
+                    "h": "26",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "946",
-                    "y": "536",
+                    "x": "1395",
+                    "y": "570",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "bottom",
                         "p0": {
-                            "x": 104,
-                            "y": 24
+                            "x": 201.969696969697,
+                            "y": 25.454545454545382
                         },
                         "p1": {
-                            "x": 0.5204579181683271,
-                            "y": 0.09688361246555015
+                            "x": 0.5528536830875871,
+                            "y": 0.031189527371572812
                         },
                         "p2": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.4545454545454959,
+                            "y": -0.3030303030303685
                         },
                         "rightArrow": "false"
                     }
@@ -622,8 +622,8 @@
                     "h": "23",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "993",
-                    "y": "784",
+                    "x": "1435",
+                    "y": "807",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -651,8 +651,8 @@
                     "h": "73",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "850",
-                    "y": "560",
+                    "x": "1292",
+                    "y": "583",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -680,8 +680,8 @@
                     "h": "34",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "319",
-                    "y": "591",
+                    "x": "761",
+                    "y": "614",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -707,8 +707,8 @@
                     "zOrder": "33",
                     "measuredW": "60",
                     "measuredH": "32",
-                    "x": "379",
-                    "y": "610",
+                    "x": "821",
+                    "y": "633",
                     "properties": {
                         "text": "ASCII",
                         "size": "18",
@@ -721,8 +721,8 @@
                     "zOrder": "34",
                     "measuredW": "98",
                     "measuredH": "32",
-                    "x": "181",
-                    "y": "610",
+                    "x": "623",
+                    "y": "633",
                     "properties": {
                         "text": "UNICODE",
                         "size": "18",
@@ -737,8 +737,8 @@
                     "h": "37",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "222",
-                    "y": "567",
+                    "x": "664",
+                    "y": "590",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -766,8 +766,8 @@
                     "h": "212",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "657",
-                    "y": "506",
+                    "x": "1099",
+                    "y": "529",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -793,8 +793,8 @@
                     "zOrder": "37",
                     "measuredW": "48",
                     "measuredH": "48",
-                    "x": "632",
-                    "y": "697",
+                    "x": "1074",
+                    "y": "720",
                     "properties": {
                         "color": "2848996",
                         "icon": {
@@ -809,8 +809,8 @@
                     "zOrder": "38",
                     "measuredW": "353",
                     "measuredH": "32",
-                    "x": "777",
-                    "y": "745",
+                    "x": "1219",
+                    "y": "768",
                     "properties": {
                         "text": "Programming Concepts and Fundamental",
                         "size": "18",
@@ -825,8 +825,8 @@
                     "h": "39",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "663",
-                    "y": "718",
+                    "x": "1105",
+                    "y": "741",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -854,8 +854,8 @@
                     "h": "14",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1005",
-                    "y": "719",
+                    "x": "1447",
+                    "y": "742",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -881,8 +881,8 @@
                     "zOrder": "41",
                     "measuredW": "212",
                     "measuredH": "32",
-                    "x": "1109",
-                    "y": "705",
+                    "x": "1551",
+                    "y": "728",
                     "properties": {
                         "text": "Sequence of commands",
                         "size": "18",
@@ -895,8 +895,8 @@
                     "zOrder": "42",
                     "measuredW": "193",
                     "measuredH": "32",
-                    "x": "1117",
-                    "y": "797",
+                    "x": "1559",
+                    "y": "820",
                     "properties": {
                         "text": "Conditional structures",
                         "size": "18",
@@ -909,8 +909,8 @@
                     "zOrder": "43",
                     "measuredW": "191",
                     "measuredH": "32",
-                    "x": "1099",
-                    "y": "839",
+                    "x": "1541",
+                    "y": "862",
                     "properties": {
                         "text": "Looping or Repetition",
                         "size": "18",
@@ -925,8 +925,8 @@
                     "h": "73",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "923",
-                    "y": "780",
+                    "x": "1365",
+                    "y": "803",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -954,8 +954,8 @@
                     "h": "119",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "893",
-                    "y": "788",
+                    "x": "1335",
+                    "y": "811",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -981,8 +981,8 @@
                     "zOrder": "46",
                     "measuredW": "105",
                     "measuredH": "32",
-                    "x": "1198",
-                    "y": "923",
+                    "x": "1640",
+                    "y": "946",
                     "properties": {
                         "text": "Data Types",
                         "color": "16776960",
@@ -995,8 +995,8 @@
                     "zOrder": "47",
                     "measuredW": "211",
                     "measuredH": "32",
-                    "x": "390",
-                    "y": "754",
+                    "x": "832",
+                    "y": "777",
                     "properties": {
                         "text": "Programming Strategies",
                         "size": "18",
@@ -1011,8 +1011,8 @@
                     "h": "66",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "483",
-                    "y": "676",
+                    "x": "925",
+                    "y": "699",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1040,8 +1040,8 @@
                     "h": "27",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "350",
-                    "y": "718",
+                    "x": "792",
+                    "y": "741",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1067,8 +1067,8 @@
                     "zOrder": "50",
                     "measuredW": "153",
                     "measuredH": "32",
-                    "x": "191",
-                    "y": "702",
+                    "x": "633",
+                    "y": "725",
                     "properties": {
                         "text": "Top-down design",
                         "size": "18",
@@ -1081,8 +1081,8 @@
                     "zOrder": "51",
                     "measuredW": "117",
                     "measuredH": "32",
-                    "x": "154",
-                    "y": "784",
+                    "x": "596",
+                    "y": "807",
                     "properties": {
                         "text": "Pseudocode",
                         "color": "16776960",
@@ -1095,8 +1095,8 @@
                     "zOrder": "52",
                     "measuredW": "93",
                     "measuredH": "32",
-                    "x": "235",
-                    "y": "853",
+                    "x": "677",
+                    "y": "876",
                     "properties": {
                         "text": "Flowchart",
                         "color": "16776960",
@@ -1111,8 +1111,8 @@
                     "h": "30",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "279",
-                    "y": "770",
+                    "x": "721",
+                    "y": "793",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1140,8 +1140,8 @@
                     "h": "68",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "341",
-                    "y": "796",
+                    "x": "783",
+                    "y": "819",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1167,8 +1167,8 @@
                     "zOrder": "55",
                     "measuredW": "83",
                     "measuredH": "32",
-                    "x": "408",
-                    "y": "869",
+                    "x": "850",
+                    "y": "892",
                     "properties": {
                         "text": "workflow",
                         "size": "18",
@@ -1183,8 +1183,8 @@
                     "h": "61",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "462",
-                    "y": "799",
+                    "x": "904",
+                    "y": "822",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1210,8 +1210,8 @@
                     "zOrder": "57",
                     "measuredW": "80",
                     "measuredH": "32",
-                    "x": "1021",
-                    "y": "897",
+                    "x": "1463",
+                    "y": "920",
                     "properties": {
                         "text": "Variable",
                         "size": "18",
@@ -1226,8 +1226,8 @@
                     "h": "19",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1110",
-                    "y": "902",
+                    "x": "1552",
+                    "y": "925",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1251,27 +1251,27 @@
                     "ID": "100",
                     "typeID": "Arrow",
                     "zOrder": "59",
-                    "w": "94",
-                    "h": "53",
+                    "w": "145",
+                    "h": "39",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "919",
-                    "y": "555",
+                    "x": "1342",
+                    "y": "586",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "bottom",
                         "p0": {
-                            "x": 94,
-                            "y": 52
+                            "x": 145.87878787878776,
+                            "y": 39.75757575757575
                         },
                         "p1": {
-                            "x": 0.5546980368649781,
-                            "y": 0.20088416004795445
+                            "x": 0.586200162836441,
+                            "y": 0.09532388546015375
                         },
                         "p2": {
-                            "x": 0,
-                            "y": 0
+                            "x": 0.42424242424226577,
+                            "y": 0.36363636363637397
                         },
                         "rightArrow": "false"
                     }
@@ -1284,8 +1284,8 @@
                     "h": "56",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1110",
-                    "y": "934",
+                    "x": "1552",
+                    "y": "957",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1311,8 +1311,8 @@
                     "zOrder": "61",
                     "measuredW": "88",
                     "measuredH": "32",
-                    "x": "1180",
-                    "y": "993",
+                    "x": "1622",
+                    "y": "1016",
                     "properties": {
                         "text": "Constant",
                         "size": "18",
@@ -1327,8 +1327,8 @@
                     "h": "160",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "861",
-                    "y": "789",
+                    "x": "1303",
+                    "y": "812",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1354,8 +1354,8 @@
                     "zOrder": "63",
                     "measuredW": "85",
                     "measuredH": "32",
-                    "x": "955",
-                    "y": "958",
+                    "x": "1397",
+                    "y": "981",
                     "properties": {
                         "text": "Function",
                         "size": "18",
@@ -1368,8 +1368,8 @@
                     "zOrder": "64",
                     "measuredW": "59",
                     "measuredH": "32",
-                    "x": "742",
-                    "y": "935",
+                    "x": "1184",
+                    "y": "958",
                     "properties": {
                         "text": "Class",
                         "color": "16770457",
@@ -1384,8 +1384,8 @@
                     "h": "135",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "778",
-                    "y": "790",
+                    "x": "1220",
+                    "y": "813",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1413,8 +1413,8 @@
                     "h": "124",
                     "measuredW": "109",
                     "measuredH": "123",
-                    "x": "742",
-                    "y": "955",
+                    "x": "1175",
+                    "y": "978",
                     "properties": {
                         "text": "Some Programming Language don't create in Object-Oreinted concept\nsuch as C"
                     }
@@ -1427,8 +1427,8 @@
                     "h": "246",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "616",
-                    "y": "730",
+                    "x": "1058",
+                    "y": "753",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1454,8 +1454,8 @@
                     "zOrder": "68",
                     "measuredW": "48",
                     "measuredH": "48",
-                    "x": "597",
-                    "y": "950",
+                    "x": "1039",
+                    "y": "973",
                     "properties": {
                         "color": "2848996",
                         "icon": {
@@ -1470,8 +1470,8 @@
                     "zOrder": "69",
                     "measuredW": "59",
                     "measuredH": "32",
-                    "x": "1104",
-                    "y": "1022",
+                    "x": "1546",
+                    "y": "1045",
                     "properties": {
                         "text": "Value",
                         "size": "18",
@@ -1486,8 +1486,8 @@
                     "h": "72",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1072",
-                    "y": "938",
+                    "x": "1514",
+                    "y": "961",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1515,8 +1515,8 @@
                     "h": "199",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "624",
-                    "y": "983",
+                    "x": "1066",
+                    "y": "1006",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1542,8 +1542,8 @@
                     "zOrder": "72",
                     "measuredW": "207",
                     "measuredH": "32",
-                    "x": "1326",
-                    "y": "746",
+                    "x": "1768",
+                    "y": "769",
                     "properties": {
                         "text": "Input - Process - Output",
                         "color": "16776960",
@@ -1558,8 +1558,8 @@
                     "h": "3",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1146",
-                    "y": "759",
+                    "x": "1588",
+                    "y": "782",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1585,8 +1585,8 @@
                     "zOrder": "74",
                     "measuredW": "68",
                     "measuredH": "32",
-                    "x": "829",
-                    "y": "923",
+                    "x": "1271",
+                    "y": "946",
                     "properties": {
                         "text": "Syntax",
                         "size": "18",
@@ -1601,8 +1601,8 @@
                     "h": "125",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "829",
-                    "y": "789",
+                    "x": "1271",
+                    "y": "812",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1630,8 +1630,8 @@
                     "h": "585",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "618",
-                    "y": "980",
+                    "x": "1060",
+                    "y": "1003",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1657,8 +1657,8 @@
                     "zOrder": "77",
                     "measuredW": "482",
                     "measuredH": "44",
-                    "x": "386",
-                    "y": "1573",
+                    "x": "828",
+                    "y": "1596",
                     "properties": {
                         "text": "Let's go deeper in core CS"
                     }
@@ -1671,8 +1671,8 @@
                     "h": "107",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "636",
-                    "y": "1626",
+                    "x": "1078",
+                    "y": "1649",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1700,8 +1700,8 @@
                     "zOrder": "79",
                     "measuredW": "84",
                     "measuredH": "32",
-                    "x": "1167",
-                    "y": "1159",
+                    "x": "1609",
+                    "y": "1182",
                     "properties": {
                         "text": "Terminal",
                         "color": "16776960",
@@ -1714,8 +1714,8 @@
                     "zOrder": "80",
                     "measuredW": "165",
                     "measuredH": "32",
-                    "x": "1117",
-                    "y": "1236",
+                    "x": "1568",
+                    "y": "1247",
                     "properties": {
                         "text": "Shell / Bash Script",
                         "size": "18",
@@ -1728,8 +1728,8 @@
                     "zOrder": "81",
                     "measuredW": "212",
                     "measuredH": "32",
-                    "x": "862",
-                    "y": "1172",
+                    "x": "1304",
+                    "y": "1195",
                     "properties": {
                         "text": "Computer Science Tools",
                         "size": "18",
@@ -1742,8 +1742,8 @@
                     "zOrder": "82",
                     "measuredW": "101",
                     "measuredH": "32",
-                    "x": "778",
-                    "y": "1333",
+                    "x": "1220",
+                    "y": "1356",
                     "properties": {
                         "text": "Text Editor",
                         "size": "18",
@@ -1756,8 +1756,8 @@
                     "zOrder": "83",
                     "measuredW": "45",
                     "measuredH": "32",
-                    "x": "945",
-                    "y": "1318",
+                    "x": "1387",
+                    "y": "1341",
                     "properties": {
                         "text": "IDE",
                         "size": "18",
@@ -1770,8 +1770,8 @@
                     "zOrder": "84",
                     "measuredW": "139",
                     "measuredH": "32",
-                    "x": "1092",
-                    "y": "1318",
+                    "x": "1534",
+                    "y": "1341",
                     "properties": {
                         "text": "Version Control",
                         "size": "18",
@@ -1784,8 +1784,8 @@
                     "zOrder": "85",
                     "measuredW": "134",
                     "measuredH": "32",
-                    "x": "1303",
-                    "y": "1176",
+                    "x": "1802",
+                    "y": "1191",
                     "properties": {
                         "text": "Command-line",
                         "size": "18",
@@ -1800,8 +1800,8 @@
                     "h": "12",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1080",
-                    "y": "1176",
+                    "x": "1522",
+                    "y": "1199",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1826,26 +1826,26 @@
                     "typeID": "Arrow",
                     "zOrder": "87",
                     "w": "91",
-                    "h": "22",
+                    "h": "10",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1258",
-                    "y": "1149",
+                    "x": "1700",
+                    "y": "1190",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "bottom",
                         "p0": {
-                            "x": 91,
-                            "y": 20
+                            "x": 90.90909090909076,
+                            "y": 10
                         },
                         "p1": {
-                            "x": 0.4345202172601086,
-                            "y": -0.22933011466505732
+                            "x": 0.565465152429547,
+                            "y": -0.0743658674859652
                         },
                         "p2": {
                             "x": 0,
-                            "y": 22
+                            "y": 4
                         },
                         "rightArrow": "false"
                     }
@@ -1854,23 +1854,23 @@
                     "ID": "159",
                     "typeID": "Arrow",
                     "zOrder": "88",
-                    "w": "44",
-                    "h": "35",
+                    "w": "47",
+                    "h": "28",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1064",
-                    "y": "1216",
+                    "x": "1506",
+                    "y": "1239",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "bottom",
                         "p0": {
-                            "x": 44,
-                            "y": 35
+                            "x": 47.030303030303,
+                            "y": 27.666666666666515
                         },
                         "p1": {
-                            "x": 0.5115469788041759,
-                            "y": 0.1569123695033217
+                            "x": 0.5115469788041765,
+                            "y": 0.15691236950332038
                         },
                         "p2": {
                             "x": 0,
@@ -1887,8 +1887,8 @@
                     "h": "102",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "823",
-                    "y": "1216",
+                    "x": "1265",
+                    "y": "1239",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1916,8 +1916,8 @@
                     "h": "91",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "910",
-                    "y": "1216",
+                    "x": "1352",
+                    "y": "1239",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1945,8 +1945,8 @@
                     "h": "120",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1004",
-                    "y": "1213",
+                    "x": "1446",
+                    "y": "1236",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -1972,8 +1972,8 @@
                     "zOrder": "92",
                     "measuredW": "88",
                     "measuredH": "32",
-                    "x": "761",
-                    "y": "1419",
+                    "x": "1203",
+                    "y": "1442",
                     "properties": {
                         "text": "VSCODE",
                         "size": "18",
@@ -1986,11 +1986,12 @@
                     "zOrder": "93",
                     "measuredW": "47",
                     "measuredH": "32",
-                    "x": "805",
-                    "y": "1492",
+                    "x": "1247",
+                    "y": "1515",
                     "properties": {
                         "text": "VIM",
-                        "size": "18"
+                        "size": "18",
+                        "color": "16767334"
                     }
                 },
                 {
@@ -1999,8 +2000,8 @@
                     "zOrder": "94",
                     "measuredW": "31",
                     "measuredH": "32",
-                    "x": "890",
-                    "y": "1433",
+                    "x": "1332",
+                    "y": "1456",
                     "properties": {
                         "text": "VI",
                         "size": "18",
@@ -2013,34 +2014,35 @@
                     "zOrder": "95",
                     "measuredW": "118",
                     "measuredH": "32",
-                    "x": "1000",
-                    "y": "1387",
+                    "x": "1469",
+                    "y": "1426",
                     "properties": {
                         "text": "Visual Studio",
-                        "size": "18"
+                        "size": "18",
+                        "color": "16776960"
                     }
                 },
                 {
                     "ID": "167",
                     "typeID": "Arrow",
                     "zOrder": "96",
-                    "w": "17",
-                    "h": "41",
+                    "w": "43",
+                    "h": "32",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "973",
-                    "y": "1357",
+                    "x": "1415",
+                    "y": "1380",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "bottom",
                         "p0": {
-                            "x": 17,
-                            "y": 41
+                            "x": 42.57575757575751,
+                            "y": 32.12121212121201
                         },
                         "p1": {
                             "x": 0.48664300392303383,
-                            "y": 0.07397720904165885
+                            "y": 0.07397720904165882
                         },
                         "p2": {
                             "x": 0,
@@ -2057,8 +2059,8 @@
                     "h": "39",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "788",
-                    "y": "1371",
+                    "x": "1230",
+                    "y": "1394",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2086,8 +2088,8 @@
                     "h": "55",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "873",
-                    "y": "1371",
+                    "x": "1315",
+                    "y": "1394",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2115,8 +2117,8 @@
                     "h": "27",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "868",
-                    "y": "1480",
+                    "x": "1310",
+                    "y": "1503",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2142,8 +2144,8 @@
                     "zOrder": "100",
                     "measuredW": "68",
                     "measuredH": "32",
-                    "x": "1326",
-                    "y": "1333",
+                    "x": "1786",
+                    "y": "1356",
                     "properties": {
                         "text": "Github",
                         "size": "18",
@@ -2156,8 +2158,8 @@
                     "zOrder": "101",
                     "measuredW": "68",
                     "measuredH": "32",
-                    "x": "1270",
-                    "y": "1403",
+                    "x": "1712",
+                    "y": "1426",
                     "properties": {
                         "text": "GitLab",
                         "size": "18",
@@ -2168,27 +2170,27 @@
                     "ID": "173",
                     "typeID": "Arrow",
                     "zOrder": "102",
-                    "w": "91",
-                    "h": "22",
+                    "w": "90",
+                    "h": "13",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1242",
-                    "y": "1307",
+                    "x": "1684",
+                    "y": "1349",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "bottom",
                         "p0": {
-                            "x": 91,
-                            "y": 20
+                            "x": 90.24242424242425,
+                            "y": 13.121212121212011
                         },
                         "p1": {
-                            "x": 0.4345202172601086,
-                            "y": -0.22933011466505732
+                            "x": 0.5227592765311537,
+                            "y": -0.07808928146888504
                         },
                         "p2": {
                             "x": 0,
-                            "y": 22
+                            "y": 3
                         },
                         "rightArrow": "false"
                     }
@@ -2201,8 +2203,8 @@
                     "h": "61",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1173",
-                    "y": "1356",
+                    "x": "1615",
+                    "y": "1379",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2230,8 +2232,8 @@
                     "h": "81",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "957",
-                    "y": "1366",
+                    "x": "1399",
+                    "y": "1389",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2259,8 +2261,8 @@
                     "h": "99",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "886",
-                    "y": "1351",
+                    "x": "1328",
+                    "y": "1374",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2284,15 +2286,15 @@
                     "ID": "177",
                     "typeID": "Icon",
                     "zOrder": "106",
-                    "measuredW": "48",
-                    "measuredH": "48",
-                    "x": "958",
-                    "y": "1425",
+                    "measuredW": "32",
+                    "measuredH": "32",
+                    "x": "1404",
+                    "y": "1448",
                     "properties": {
                         "color": "2848996",
                         "icon": {
                             "ID": "circle",
-                            "size": "large"
+                            "size": "medium"
                         }
                     }
                 },
@@ -2304,8 +2306,8 @@
                     "h": "31",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "989",
-                    "y": "1450",
+                    "x": "1431",
+                    "y": "1473",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2331,8 +2333,8 @@
                     "zOrder": "108",
                     "measuredW": "96",
                     "measuredH": "32",
-                    "x": "1038",
-                    "y": "1473",
+                    "x": "1480",
+                    "y": "1496",
                     "properties": {
                         "text": "Debugger",
                         "size": "18",
@@ -2345,8 +2347,8 @@
                     "zOrder": "109",
                     "measuredW": "32",
                     "measuredH": "32",
-                    "x": "208",
-                    "y": "71",
+                    "x": "650",
+                    "y": "94",
                     "properties": {
                         "color": "10027263",
                         "icon": {
@@ -2361,8 +2363,8 @@
                     "zOrder": "110",
                     "measuredW": "229",
                     "measuredH": "25",
-                    "x": "247",
-                    "y": "75",
+                    "x": "689",
+                    "y": "98",
                     "properties": {
                         "bold": "true",
                         "color": "10027263",
@@ -2376,8 +2378,8 @@
                     "zOrder": "111",
                     "measuredW": "32",
                     "measuredH": "32",
-                    "x": "208",
-                    "y": "117",
+                    "x": "650",
+                    "y": "140",
                     "properties": {
                         "color": "10027263",
                         "icon": {
@@ -2392,8 +2394,8 @@
                     "zOrder": "112",
                     "measuredW": "59",
                     "measuredH": "25",
-                    "x": "248",
-                    "y": "122",
+                    "x": "690",
+                    "y": "145",
                     "properties": {
                         "bold": "true",
                         "color": "10027263",
@@ -2407,8 +2409,8 @@
                     "zOrder": "113",
                     "measuredW": "32",
                     "measuredH": "32",
-                    "x": "208",
-                    "y": "161",
+                    "x": "650",
+                    "y": "184",
                     "properties": {
                         "color": "10027263",
                         "icon": {
@@ -2423,8 +2425,8 @@
                     "zOrder": "114",
                     "measuredW": "184",
                     "measuredH": "25",
-                    "x": "248",
-                    "y": "169",
+                    "x": "690",
+                    "y": "192",
                     "properties": {
                         "bold": "true",
                         "color": "10027263",
@@ -2438,8 +2440,8 @@
                     "zOrder": "115",
                     "measuredW": "257",
                     "measuredH": "32",
-                    "x": "1146",
-                    "y": "639",
+                    "x": "1588",
+                    "y": "662",
                     "properties": {
                         "text": "Control  Flow or Program Flow",
                         "size": "18",
@@ -2454,8 +2456,8 @@
                     "h": "66",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "913",
-                    "y": "661",
+                    "x": "1355",
+                    "y": "684",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2481,8 +2483,8 @@
                     "zOrder": "117",
                     "measuredW": "190",
                     "measuredH": "32",
-                    "x": "1356",
-                    "y": "800",
+                    "x": "1798",
+                    "y": "823",
                     "properties": {
                         "text": "Decision os Selection",
                         "size": "18",
@@ -2495,8 +2497,8 @@
                     "zOrder": "118",
                     "measuredW": "34",
                     "measuredH": "32",
-                    "x": "1443",
-                    "y": "923",
+                    "x": "1885",
+                    "y": "946",
                     "properties": {
                         "text": "int",
                         "size": "18",
@@ -2509,8 +2511,8 @@
                     "zOrder": "119",
                     "measuredW": "51",
                     "measuredH": "32",
-                    "x": "1425",
-                    "y": "876",
+                    "x": "1867",
+                    "y": "899",
                     "properties": {
                         "text": "char",
                         "size": "18",
@@ -2523,8 +2525,8 @@
                     "zOrder": "120",
                     "measuredW": "49",
                     "measuredH": "32",
-                    "x": "1426",
-                    "y": "980",
+                    "x": "1868",
+                    "y": "1003",
                     "properties": {
                         "text": "float",
                         "size": "18",
@@ -2539,8 +2541,8 @@
                     "h": "20",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1290",
-                    "y": "892",
+                    "x": "1732",
+                    "y": "915",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2568,8 +2570,8 @@
                     "h": "3",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1311",
-                    "y": "939",
+                    "x": "1753",
+                    "y": "962",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2597,8 +2599,8 @@
                     "h": "28",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1290",
-                    "y": "967",
+                    "x": "1732",
+                    "y": "990",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2626,8 +2628,8 @@
                     "h": "2",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1317",
-                    "y": "815",
+                    "x": "1759",
+                    "y": "838",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2655,8 +2657,8 @@
                     "zOrder": "125",
                     "measuredW": "210",
                     "measuredH": "32",
-                    "x": "940",
-                    "y": "335",
+                    "x": "1382",
+                    "y": "358",
                     "properties": {
                         "text": "Programming Language",
                         "size": "18",
@@ -2671,8 +2673,8 @@
                     "h": "27",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "682",
-                    "y": "366",
+                    "x": "1124",
+                    "y": "389",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2698,8 +2700,8 @@
                     "zOrder": "127",
                     "measuredW": "27",
                     "measuredH": "32",
-                    "x": "1118",
-                    "y": "276",
+                    "x": "1560",
+                    "y": "299",
                     "properties": {
                         "text": "C",
                         "size": "18",
@@ -2712,8 +2714,8 @@
                     "zOrder": "128",
                     "measuredW": "51",
                     "measuredH": "32",
-                    "x": "1231",
-                    "y": "314",
+                    "x": "1673",
+                    "y": "337",
                     "properties": {
                         "text": "C++",
                         "size": "18",
@@ -2726,8 +2728,8 @@
                     "zOrder": "129",
                     "measuredW": "53",
                     "measuredH": "32",
-                    "x": "943",
-                    "y": "426",
+                    "x": "1385",
+                    "y": "443",
                     "properties": {
                         "text": "JAVA",
                         "size": "18",
@@ -2740,8 +2742,8 @@
                     "zOrder": "130",
                     "measuredW": "70",
                     "measuredH": "32",
-                    "x": "1099",
-                    "y": "426",
+                    "x": "1541",
+                    "y": "449",
                     "properties": {
                         "text": "Python",
                         "size": "18",
@@ -2756,8 +2758,8 @@
                     "h": "34",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1029",
-                    "y": "294",
+                    "x": "1471",
+                    "y": "317",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2785,8 +2787,8 @@
                     "h": "40",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1078",
-                    "y": "374",
+                    "x": "1520",
+                    "y": "397",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2810,26 +2812,26 @@
                     "ID": "208",
                     "typeID": "Arrow",
                     "zOrder": "133",
-                    "w": "28",
-                    "h": "30",
+                    "w": "11",
+                    "h": "22",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "970",
-                    "y": "385",
+                    "x": "1429",
+                    "y": "408",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
                         "direction": "bottom",
                         "p0": {
-                            "x": 0,
-                            "y": 30
+                            "x": -0.21212121212124657,
+                            "y": 22.303030303030255
                         },
                         "p1": {
-                            "x": 0.48750000000000004,
-                            "y": 0.037500000000000054
+                            "x": 0.4875,
+                            "y": 0.037500000000000075
                         },
                         "p2": {
-                            "x": 28,
+                            "x": 11,
                             "y": 0
                         },
                         "rightArrow": "false"
@@ -2843,8 +2845,8 @@
                     "h": "19",
                     "measuredW": "150",
                     "measuredH": "100",
-                    "x": "1158",
-                    "y": "325",
+                    "x": "1600",
+                    "y": "348",
                     "properties": {
                         "color": "2848996",
                         "curvature": "-1",
@@ -2872,10 +2874,495 @@
                     "h": "156",
                     "measuredW": "109",
                     "measuredH": "123",
-                    "x": "1311",
-                    "y": "290",
+                    "x": "1753",
+                    "y": "313",
                     "properties": {
                         "text": "Actually,  whatever language you pick, you can use it in anyway\nBut most computer science book, their reference with these languages"
+                    }
+                },
+                {
+                    "ID": "211",
+                    "typeID": "Arrow",
+                    "zOrder": "136",
+                    "w": "74",
+                    "h": "28",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1526",
+                    "y": "1140",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 73.5757575757575,
+                            "y": -0.3333333333334849
+                        },
+                        "p1": {
+                            "x": 0.5153908138597905,
+                            "y": -0.07268331990330375
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 28
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "212",
+                    "typeID": "TextInput",
+                    "zOrder": "137",
+                    "measuredW": "128",
+                    "measuredH": "32",
+                    "x": "1617",
+                    "y": "1122",
+                    "properties": {
+                        "text": "UNIX / LINUX",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "213",
+                    "typeID": "TextInput",
+                    "zOrder": "138",
+                    "measuredW": "125",
+                    "measuredH": "32",
+                    "x": "1597",
+                    "y": "529",
+                    "properties": {
+                        "text": "Floating point",
+                        "color": "16776960",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "214",
+                    "typeID": "Arrow",
+                    "zOrder": "139",
+                    "w": "192",
+                    "h": "12",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1394",
+                    "y": "548",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 192.36363636363626,
+                            "y": 0.48484848484849863
+                        },
+                        "p1": {
+                            "x": 0.5528536830875873,
+                            "y": 0.031189527371572944
+                        },
+                        "p2": {
+                            "x": -0.06060606060623286,
+                            "y": 9.575757575757507
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "215",
+                    "typeID": "TextInput",
+                    "zOrder": "140",
+                    "measuredW": "320",
+                    "measuredH": "32",
+                    "x": "612",
+                    "y": "1016",
+                    "properties": {
+                        "text": "Basic of Algorithm and Data Structure",
+                        "color": "16776960",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "216",
+                    "typeID": "Arrow",
+                    "zOrder": "141",
+                    "w": "112",
+                    "h": "23",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "948",
+                    "y": "997",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0.48484848484838494,
+                            "y": 22.69696969696963
+                        },
+                        "p1": {
+                            "x": 0.6288486177474046,
+                            "y": 0.07283483779063908
+                        },
+                        "p2": {
+                            "x": 112,
+                            "y": 3
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "217",
+                    "typeID": "Arrow",
+                    "zOrder": "142",
+                    "w": "101",
+                    "h": "14",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "495",
+                    "y": "1031",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0.45454545454543904,
+                            "y": 14.454545454545496
+                        },
+                        "p1": {
+                            "x": 0.5235347191888237,
+                            "y": 0.022473487099800946
+                        },
+                        "p2": {
+                            "x": 101,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "218",
+                    "typeID": "TextInput",
+                    "zOrder": "143",
+                    "measuredW": "148",
+                    "measuredH": "32",
+                    "x": "327",
+                    "y": "1035",
+                    "properties": {
+                        "text": "Time Complexity",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "219",
+                    "typeID": "TextInput",
+                    "zOrder": "144",
+                    "measuredW": "136",
+                    "measuredH": "32",
+                    "x": "305",
+                    "y": "1145",
+                    "properties": {
+                        "text": "Big-O Notation",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "220",
+                    "typeID": "Arrow",
+                    "zOrder": "145",
+                    "w": "17",
+                    "h": "58",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "370",
+                    "y": "1079",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": -0.30303030303031164,
+                            "y": 57.36363636363626
+                        },
+                        "p1": {
+                            "x": 0.5602853198343306,
+                            "y": 0.03290381960423379
+                        },
+                        "p2": {
+                            "x": 16.363636363636317,
+                            "y": -0.21212121212124657
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "221",
+                    "typeID": "Arrow",
+                    "zOrder": "146",
+                    "w": "6",
+                    "h": "63",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "886",
+                    "y": "1070",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 4.909090909090878,
+                            "y": 63.33333333333326
+                        },
+                        "p1": {
+                            "x": 0.5707336521674217,
+                            "y": -0.04423868500053676
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "222",
+                    "typeID": "Arrow",
+                    "zOrder": "147",
+                    "w": "25",
+                    "h": "61",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "642",
+                    "y": "1070",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 61
+                        },
+                        "p1": {
+                            "x": 0.5602853198343305,
+                            "y": 0.03290381960423378
+                        },
+                        "p2": {
+                            "x": 25,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "223",
+                    "typeID": "TextInput",
+                    "zOrder": "148",
+                    "measuredW": "131",
+                    "measuredH": "32",
+                    "x": "826",
+                    "y": "1141",
+                    "properties": {
+                        "text": "Data structure",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "224",
+                    "typeID": "TextInput",
+                    "zOrder": "149",
+                    "measuredW": "91",
+                    "measuredH": "32",
+                    "x": "596",
+                    "y": "1145",
+                    "properties": {
+                        "text": "Algorithm",
+                        "color": "16776960",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "225",
+                    "typeID": "Arrow",
+                    "zOrder": "150",
+                    "w": "24",
+                    "h": "53",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "914",
+                    "y": "1194",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 23.878787878787875,
+                            "y": 52.969696969697
+                        },
+                        "p1": {
+                            "x": 0.5707336521674217,
+                            "y": -0.04423868500053678
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "226",
+                    "typeID": "TextInput",
+                    "zOrder": "151",
+                    "measuredW": "98",
+                    "measuredH": "32",
+                    "x": "914",
+                    "y": "1259",
+                    "properties": {
+                        "text": "Link-listed",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "227",
+                    "typeID": "TextInput",
+                    "zOrder": "152",
+                    "measuredW": "56",
+                    "measuredH": "32",
+                    "x": "824",
+                    "y": "1265",
+                    "properties": {
+                        "text": "Array",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "228",
+                    "typeID": "TextInput",
+                    "zOrder": "153",
+                    "measuredW": "153",
+                    "measuredH": "32",
+                    "x": "457",
+                    "y": "1247",
+                    "properties": {
+                        "text": "Sorting algorithm",
+                        "size": "18",
+                        "color": "16776960"
+                    }
+                },
+                {
+                    "ID": "229",
+                    "typeID": "TextInput",
+                    "zOrder": "154",
+                    "measuredW": "154",
+                    "measuredH": "32",
+                    "x": "589",
+                    "y": "1297",
+                    "properties": {
+                        "text": "Greedy Algorithm",
+                        "color": "16776960",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "230",
+                    "typeID": "Arrow",
+                    "zOrder": "155",
+                    "w": "15",
+                    "h": "64",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "858",
+                    "y": "1194",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": -0.42424242424249314,
+                            "y": 63.57575757575751
+                        },
+                        "p1": {
+                            "x": 0.5707336521674414,
+                            "y": -0.044238685000617346
+                        },
+                        "p2": {
+                            "x": 15,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "231",
+                    "typeID": "Arrow",
+                    "zOrder": "156",
+                    "w": "39",
+                    "h": "52",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "546",
+                    "y": "1183",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 52
+                        },
+                        "p1": {
+                            "x": 0.5602853198343305,
+                            "y": 0.032903819604233796
+                        },
+                        "p2": {
+                            "x": 38.84848484848487,
+                            "y": 0.33333333333325754
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "232",
+                    "typeID": "Arrow",
+                    "zOrder": "157",
+                    "w": "13",
+                    "h": "95",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "674",
+                    "y": "1183",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 9.333333333333258,
+                            "y": 95.78787878787875
+                        },
+                        "p1": {
+                            "x": 0.5470003449938318,
+                            "y": -0.08609876443906991
+                        },
+                        "p2": {
+                            "x": -0.1515151515151274,
+                            "y": 0.33333333333325754
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "235",
+                    "typeID": "Tooltip",
+                    "zOrder": "158",
+                    "measuredW": "183",
+                    "measuredH": "33",
+                    "x": "1733",
+                    "y": "1264",
+                    "properties": {
+                        "text": "Only in UNIX/ LINUX OS"
                     }
                 }
             ]
@@ -2889,9 +3376,9 @@
         "branchID": "Master",
         "resourceID": "82E132DF-B897-4935-BDC3-9EE616474C36",
         "mockupH": "1713",
-        "mockupW": "1482",
-        "measuredW": "1546",
-        "measuredH": "1733",
+        "mockupW": "1683",
+        "measuredW": "1988",
+        "measuredH": "1756",
         "version": "1.0"
     }
 }

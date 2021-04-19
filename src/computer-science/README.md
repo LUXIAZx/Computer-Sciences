@@ -1,9 +1,8 @@
-![Cover](./../../img/cs-cover.png)
+![Cover](./../../img/computer-science/CS-COVER.png)
 
 ***
 
 > Roadmap to becoming a computer scientist in 2021.
-> Inspired by [web-dev-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ***
 
@@ -37,31 +36,31 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 # Prerequisite 📝
 
-![CS-2021](img/CS-2021.png)
+![CS-2021](./../../img/computer-science/CS-COVER.png)
 
 ***
 
 # Introduction CS 🧑‍🎓
 
 
-![Intro-2021](img/Intro-CS.png)
+![Intro-2021](./../../img/computer-science/Intro-CS.png)
 
 ***
 # Core CS  📚
 
 > ⚠️ Current working :factory_worker:
 
-![Core-CS](img/Core-CS.png)
+![Core-CS](./../../img/roadmap/instruction.png)
 ***
 # Advance CS 🚀 👾
 
 
-![instruction](img/instruction.png)
+![instruction](./../../img/roadmap/instruction.png)
 ***
 # Branches of Computer Sciences
 
 
-![instruction](img/instruction.png)
+![instruction](./../../img/roadmap/instruction.png)
 ***
 # 🚧 Wrap up
 

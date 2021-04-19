@@ -35,8 +35,8 @@
                     "zOrder": "2",
                     "measuredW": "189",
                     "measuredH": "29",
-                    "x": "305",
-                    "y": "230",
+                    "x": "338",
+                    "y": "231",
                     "properties": {
                         "text": "High-School Mathematics",
                         "size": "15",
@@ -75,10 +75,11 @@
                     "zOrder": "5",
                     "measuredW": "194",
                     "measuredH": "27",
-                    "x": "45",
-                    "y": "188",
+                    "x": "349",
+                    "y": "330",
                     "properties": {
-                        "text": "KNOW BASIC OF COMPUTER"
+                        "text": "KNOW BASIC OF COMPUTER",
+                        "color": "16776960"
                     }
                 },
                 {
@@ -287,23 +288,9 @@
                     }
                 },
                 {
-                    "ID": "45",
-                    "typeID": "TextInput",
-                    "zOrder": "17",
-                    "measuredW": "292",
-                    "measuredH": "29",
-                    "x": "305",
-                    "y": "330",
-                    "properties": {
-                        "size": "15",
-                        "color": "16776960",
-                        "text": "Passion , Persistent in Computer Science"
-                    }
-                },
-                {
                     "ID": "46",
                     "typeID": "TextInput",
-                    "zOrder": "18",
+                    "zOrder": "17",
                     "measuredW": "159",
                     "measuredH": "27",
                     "x": "45",
@@ -316,7 +303,7 @@
                 {
                     "ID": "47",
                     "typeID": "TextInput",
-                    "zOrder": "19",
+                    "zOrder": "18",
                     "measuredW": "130",
                     "measuredH": "27",
                     "x": "45",
@@ -325,21 +312,50 @@
                         "text": "DESIGN THINKING",
                         "color": "16767334"
                     }
+                },
+                {
+                    "ID": "48",
+                    "typeID": "Arrow",
+                    "zOrder": "19",
+                    "w": "1",
+                    "h": "47",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "445",
+                    "y": "366",
+                    "properties": {
+                        "color": "6710886",
+                        "curvature": "0",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5,
+                            "y": 0
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 46
+                        },
+                        "rightArrow": "false"
+                    }
                 }
             ]
         },
         "attributes": {
-            "name": "CS-2021",
+            "name": "CS-COVER",
             "order": 584064.8784597366,
             "parentID": null,
             "notes": null
         },
         "branchID": "Master",
         "resourceID": "6236A584-1B3C-418C-8927-EB1F23ACB247",
-        "mockupH": "328",
+        "mockupH": "382",
         "mockupW": "831",
         "measuredW": "876",
-        "measuredH": "359",
+        "measuredH": "413",
         "version": "1.0"
     }
 }
