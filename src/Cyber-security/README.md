@@ -1,1 +1,0 @@
-![](../../img/roadmap/instruction.png)

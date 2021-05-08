@@ -1,1 +1,0 @@
-![book](../img/Books-cover.png)
