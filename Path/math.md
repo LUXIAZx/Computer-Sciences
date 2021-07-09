@@ -1,7 +1,7 @@
 ![math](../img/math.png)
 <hr>
 
-- [ ] Set
+- [x] Set
 - [ ] Reasoning
 - [ ] Logic
 - [ ] Real Number
