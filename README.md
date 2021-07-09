@@ -3,6 +3,15 @@
 <hr>
 
 Tracking Path and I'm wrote blog in [this repository](https://github.com/LUXIAZx/Blog-Data)
+
+# Mathematic
+
+[![math](img/math.png)](Path/math.md)
+
+
+> Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.
+> — Shakuntala Devi, Indian writer and mental calculator
+
 # Computer Science
 
 [![cs-c](img/com-sci.png) ](Path/cs.md)
