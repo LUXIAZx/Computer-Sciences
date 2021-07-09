@@ -2,6 +2,7 @@
 
 <hr>
 
+Tracking Path and I'm wrote blog in [this repository](https://github.com/LUXIAZx/Blog-Data)
 # Computer Science
 
 [![cs-c](img/com-sci.png) ](Path/cs.md)
