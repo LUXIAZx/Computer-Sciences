@@ -2,7 +2,7 @@
 <hr>
 
 - [x] Set
-- [ ] Reasoning
+- [x] Reasoning
 - [ ] Logic
 - [ ] Real Number
 - [ ] Relation and function

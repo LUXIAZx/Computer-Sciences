@@ -1,4 +1,4 @@
-![com-sci-cover](../img/web-dev.png)
+![web-dev](../img/web-dev.png)
 
 <hr>
 
